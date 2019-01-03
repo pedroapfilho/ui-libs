@@ -46,7 +46,7 @@ Atlassian's official UI library, built according to the Atlassian Design Guideli
 
 https://atlaskit.atlassian.com/
 
-## Groomet
+## Grommet
 
 Build responsive and accessible mobile-first projects for the web with an easy to use component library.
 
