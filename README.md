@@ -4,6 +4,12 @@ A list to libs to use web (or desktop) apps.
 
 # React
 
+## Reakit
+
+Build accessible rich web apps with React.
+
+https://reakit.io/
+
 ## Material UI
 
 React components that implement Google's Material Design.
