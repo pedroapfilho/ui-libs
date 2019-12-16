@@ -1,8 +1,12 @@
 # UI Libs
 
-A list to libs to use web (or desktop) apps.
+A list to libs to use web (or desktop) apps. This list is not ordered.
 
-# React
+## React Suite 
+
+A suite of React components, sensible UI design, and a friendly development experience.
+
+https://rsuitejs.com/
 
 ## Reakit
 
